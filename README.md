@@ -6,5 +6,6 @@
 - 每个项目的第一个Issue是该项目的里程碑
 
 # 计划
-- [ ] [SearchEngine]()，搜索引擎
+- [ ] [SearchEngine](https://github.com/SparrowPlan/SearchEngine)，搜索引擎
+- [ ] [VirtualMachine]()，虚拟机
 - [ ] 计划中.....
